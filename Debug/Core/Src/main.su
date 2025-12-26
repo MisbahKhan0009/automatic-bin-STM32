@@ -1,0 +1,14 @@
+../Core/Src/main.c:86:5:main	8	static
+../Core/Src/main.c:187:6:SystemClock_Config	72	static
+../Core/Src/main.c:218:13:MX_I2C2_Init	8	static
+../Core/Src/main.c:239:13:MX_TIM1_Init	32	static
+../Core/Src/main.c:271:13:MX_TIM2_Init	48	static
+../Core/Src/main.c:306:13:MX_GPIO_Init	40	static
+../Core/Src/main.c:346:6:Servo_SetPulse_us	16	static
+../Core/Src/main.c:360:6:Servo_GotoAngle	24	static
+../Core/Src/main.c:372:6:Servo_OpenLid	8	static
+../Core/Src/main.c:380:6:Servo_CloseLid	8	static
+../Core/Src/main.c:388:10:Read_Ultrasonic_Sensor1	32	static
+../Core/Src/main.c:426:10:Read_Ultrasonic_Sensor2	24	static
+../Core/Src/main.c:458:6:Update_OLED_Display	8	static
+../Core/Src/main.c:484:6:Error_Handler	4	static,ignoring_inline_asm
